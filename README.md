@@ -1,4 +1,4 @@
-# Awesome-Papers-on-Adversarial-Robustness.
+# Awesome papers on adversarial robustness.
 ##	Review:
 ######	Adversarial attacks and defenses in images, graphs and text: a review, 2019.
 ##	Attackers:
