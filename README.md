@@ -9,7 +9,7 @@
 ######	:star::star: The limitations of deep learning in adversarial settings, 2018.
 ######	:star::star::star: Interpretable deep learning under fire, 2018.
 ######	:star::star::star: Interpretation of neural networks is fragile, 2019, AAAI.
-##	Analysis and insights (The reason of the existing of adversarial examples):
+##	Analysis and insights (the reason of the existing of adversarial examples):
 ######	:star::star: Perturbation, optimization and statistics, 2016.
 ######	:star::star: Sparse dnns with improved adversarial robustness, 2018, NeurIPS.
 ######	:star::star: Attention, please! Adversarial defense via attention rectification and preservation, 2019.
@@ -23,7 +23,7 @@
 ######	:star::star::star::star: The curious case of adversarially robust models: more data can help, double descend, or hurt generalization, 2020.
 ######	:star::star: Rethinking randomized smoothing for adversarial robustness, 2020.
 ######	:star::star::star: Invariance vs. Robustness of neural networks, 2020.
-##	About fake defense (The defense we can't trust):
+##	About fake defense (these defense we can't trust):
 ######	:star::star::star::star::star: Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples, 2018.
 ##	Adversarial training (Improve robustness with data augumentation):
 ######	:star::star: Adversarial machine learning at scale, 2017, ICLR.
@@ -35,7 +35,7 @@
 ######	:star: Adversarial vertex mixup: toward better adversarially robust generalization, 2020.
 ######	:star::star: Manifold regularization for adversarial robustness, 2020.
 ######	:star: Curriculum adversarial training, 2020.
-##	Denoising on representations (Improve robustness by modifying networks):
+##	Denoising on representations (improve robustness by modifying networks):
 ######	:star: Deepcloak: masking deep neural network models for robustness against adversarial samples, 2017.
 ######	:star::star: Adversarial examples detection in deep networks with convolutional filter statistics, 2017, ICCV.
 ######	:star: Optimal transport classifier: defending against adversarial attacks by regularized deep embedding, 2018.
@@ -44,12 +44,12 @@
 ######	:star::star: Feature losses for adversarial robustness, 2019.
 ######	:star: White-box adversarial defense via self-supervised data estimation, 2019.
 ######	:star: Adversarial defense by stratified convolutional sparse coding, 2019.
-##	Regularization via losses (Improve robustness by introduce better regularization terms):
+##	Regularization via losses (improve robustness with better regularization terms):
 ######	:star::star::star::star: Adversarial robustness through local linearization, 2019, NeurIPS.
 ######	:star: Adversarial defense by restricting the hidden space of deep neural networks, 2019.
 ######	:star::star: Jacobian adversarially regularized networks for robustness, 2020.
 ######	:star::star::star: Towards understanding the regularization of adversarial robustness on neural networks, 2020, ICML.
-##	Theory on error bounds (Provide the quantitative analysis on robustness):
+##	Theory on error bounds (provide the quantitative analysis on robustness):
 ######	:star: Towards deep neural network architectures robust to adversarial examples, 2014.
 ######	:star::star: Limitations of the lipschitz constant as a defense against adversarial examples, 2018.
 ######	:star: Towards robust neural networks via random self-ensemble, 2018, ECCV.
