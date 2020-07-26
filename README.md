@@ -57,6 +57,7 @@
 ######	:star::star: Lipschitz regularity of deep neural networks: analysis and efficient estimation, 2018, NeurIPS.
 ######	:star::star::star: Efficient and accurate estimation of lipschitz constants for deep neural networks, 2019, NeurIPS.
 ######	:star::star: Adversarial learning guarantees for linear hypotheses and neural networks, 2020, ICML.
-
+## Further Reading
+https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
 
 
