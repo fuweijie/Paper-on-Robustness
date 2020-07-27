@@ -1,7 +1,7 @@
 # Representative papers on adversarial robustness.
 ###### Number of :star: ranks the importance of this paper for the area to some degree.
 ##	Review:
-######	:star::star::star::star: Adversarial attacks and defenses in images, graphs and text: a review, 2019.
+######	:star::star::star::star::star: Adversarial attacks and defenses in images, graphs and text: a review, 2019.
 ##	Attackers (small pertumbation can mislead classification and explanation):
 ######	:star::star: Explaining and harnessing adversarial examples, 2015, ICLR.
 ######	:star::star: Deepfool: a simple and accurate method to fool deep neural networks, 2016,CVPR.
