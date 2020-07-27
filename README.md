@@ -3,7 +3,7 @@
 ##	Review:
 ######	:star::star::star::star::star: Adversarial attacks and defenses in images, graphs and text: a review, 2019.
 ##	Attackers (small pertumbation can mislead classification and explanation):
-######	:star::star: Explaining and harnessing adversarial examples, 2015, ICLR.
+######	:star::star::star::star: Explaining and harnessing adversarial examples, 2015, ICLR.
 ######	:star::star: Deepfool: a simple and accurate method to fool deep neural networks, 2016,CVPR.
 ######	:star::star: Zoo: zeroth order optimization based black-box attacks to deep neural networks without training substitute models, 2017.
 ######	:star::star: The limitations of deep learning in adversarial settings, 2018.
@@ -24,7 +24,7 @@
 ######	:star::star: Rethinking randomized smoothing for adversarial robustness, 2020.
 ######	:star::star::star: Invariance vs. Robustness of neural networks, 2020.
 ##	About fake defense (these defense we can't trust):
-######	:star::star::star::star::star: Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples, 2018.
+######	:star::star::star::star: Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples, 2018.
 ##	Adversarial training (using data augumentation):
 ######	:star::star: Adversarial machine learning at scale, 2017, ICLR.
 ######	:star: Mixup inference: better exploiting mixup to defend adversarial attacks, 2019.
