@@ -1,5 +1,5 @@
 # Representative papers on adversarial robustness.
-###### Number of :star: ranks the importance of this paper for the area to some degree.
+###### Number of :star: provides a suggested order for paper reading.
 ##	Review:
 ######	:star::star::star::star::star: Adversarial attacks and defenses in images, graphs and text: a review, 2019.
 ##	Attackers (small pertumbation can mislead classification and explanation):
