@@ -25,7 +25,7 @@
 ######	:star::star::star: Invariance vs. Robustness of neural networks, 2020.
 ##	About fake defense (these defense we can't trust):
 ######	:star::star::star::star: Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples, 2018.
-##	Adversarial training (using data augumentation):
+##	Defensing via adversarial training (using data augumentation):
 ######	:star::star: Adversarial machine learning at scale, 2017, ICLR.
 ######	:star: Mixup inference: better exploiting mixup to defend adversarial attacks, 2019.
 ######	:star::star: Towards a unified min-max framework for adversarial exploration and robustness, 2019.
@@ -35,7 +35,7 @@
 ######	:star: Adversarial vertex mixup: toward better adversarially robust generalization, 2020.
 ######	:star::star: Manifold regularization for adversarial robustness, 2020.
 ######	:star: Curriculum adversarial training, 2020.
-##	Denoising on representations (modifying networks):
+##	Defensing via denoising (modifying networks):
 ######	:star: Deepcloak: masking deep neural network models for robustness against adversarial samples, 2017.
 ######	:star::star: Adversarial examples detection in deep networks with convolutional filter statistics, 2017, ICCV.
 ######	:star: Optimal transport classifier: defending against adversarial attacks by regularized deep embedding, 2018.
@@ -44,7 +44,7 @@
 ######	:star::star: Feature losses for adversarial robustness, 2019.
 ######	:star: White-box adversarial defense via self-supervised data estimation, 2019.
 ######	:star: Adversarial defense by stratified convolutional sparse coding, 2019.
-##	Regularization via losses (using better regularization terms):
+##	Defensing via regularization (using better regularization terms):
 ######	:star::star::star::star: Adversarial robustness through local linearization, 2019, NeurIPS.
 ######	:star: Adversarial defense by restricting the hidden space of deep neural networks, 2019.
 ######	:star::star: Jacobian adversarially regularized networks for robustness, 2020.
